@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="EasyHTTP/EasyHTTP.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EasyHTTP/Scripts/EmptyClass.cs">
+    <Files>
+      <File FileName="EasyHTTP/Scripts/EmptyClass.cs" Line="2" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
